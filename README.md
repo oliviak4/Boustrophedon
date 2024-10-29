@@ -24,7 +24,7 @@ ENGL 415 Assignment
 </ol>
 <table>
   <caption>
-    What everyone usually brings 
+    <h3>What everyone usually brings</h3>  
   </caption>
   <thead>
     <tr>
@@ -45,10 +45,4 @@ ENGL 415 Assignment
       <th scope="row">Uncle C</th>
       <td>Whipped cream and Ice cream</td>
     </tr>
-  <tfoot>
-    <tr>
-      <th scope="row" colspan="2">Average age</th>
-      <td>33</td>
-    </tr>
-  </tfoot>
 </table>
