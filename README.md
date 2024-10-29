@@ -22,3 +22,33 @@ ENGL 415 Assignment
   <li><em>Whipped cream</em></li>
   <li><em>Ice cream</em></li>
 </ol>
+<table>
+  <caption>
+    What everyone usually brings 
+  </caption>
+  <thead>
+    <tr>
+      <th scope="col">Person</th>
+      <th scope="col">Food</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th scope="row">Mom</th>
+      <td>Pumpkin and apple pie and Turkey</td>
+    </tr>
+    <tr>
+      <th scope="row">Aunty S</th>
+      <td>Ham, Pecan Pie, Green Beans, Onions, and Potatoes</td>
+    </tr>
+    <tr>
+      <th scope="row">Uncle C</th>
+      <td>Whipped cream and Ice cream</td>
+    </tr>
+  <tfoot>
+    <tr>
+      <th scope="row" colspan="2">Average age</th>
+      <td>33</td>
+    </tr>
+  </tfoot>
+</table>
