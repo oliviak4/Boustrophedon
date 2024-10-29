@@ -5,7 +5,7 @@ ENGL 415 Assignment
 <ol>
   <li>Turkey</li>
   <li>Ham  <sub> <strong>preferrably honey glazed</strong></li> </sub>
-    Specifically from <a href="[http://www.codecademy.com](https://www.honeybaked.com/storepickup/honey-baked-ham)">
+    Specifically from <a href="[https://www.honeybaked.com/storepickup/honey-baked-ham]">
   <div>Honey Baked Ham</div>
 </a>
 </ol>
