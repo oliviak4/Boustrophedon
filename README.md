@@ -2,7 +2,7 @@
 ENGL 415 Assignment
 <h2>Family Thanksgiving Food List<sup> November 2024</sup></h2> 
 
-<img src="[url]([https://cdn.britannica.com/06/187306-050-0287B644/cornucopia-pumpkins-gords-leaf.jpg](https://www.pinterest.com/pin-builder/?description=-+ELLEDecor.com&media=https%3A%2F%2Fhips.hearstapps.com%2Fhmg-prod%2Fimages%2Fthanksgiving-cornucopia-royalty-free-image-1697467463.jpg%3Fresize%3D1600%3A*&method=button&url=https%3A%2F%2Fwww.elledecor.com%2Flife-culture%2Fentertaining%2Fa45524098%2Fthanksgiving-cornucopia-meaning%2F))" width="1600" height="1200">
+<img src="[url]([https://cdn.britannica.com/06/187306-050-0287B644/cornucopia-pumpkins-gords-leaf.jpg](https://www.pinterest.com/pin-builder/?description=-+ELLEDecor.com&media=https%3A%2F%2Fhips.hearstapps.com%2Fhmg-prod%2Fimages%2Fthanksgiving-cornucopia-royalty-free-image-1697467463.jpg%3Fresize%3D1600%3A*&method=button&url=https%3A%2F%2Fwww.elledecor.com%2Flife-culture%2Fentertaining%2Fa45524098%2Fthanksgiving-cornucopia-meaning%2F))" width="100" height="100">
 
 <h3>Meats</h3> 
 <ol>
