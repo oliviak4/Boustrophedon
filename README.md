@@ -2,8 +2,7 @@
 ENGL 415 Assignment
 <h2>Family Thanksgiving Food List<sup> November 2024</sup></h2> 
 ![Cornucopia!](/assets/images/cornucopia-pumpkins-gords-leaf.jpg.webp "Thanksgiving in the United States")
-![Cornucopia!](/assets/images/cornucopia-pumpkins-gords-leaf.jpg.webp "Thanksgiving in the United States")
-[![](/assets/images/ " by Brittanica")]([(https://cdn.britannica.com/06/187306-050-0287B644/cornucopia-pumpkins-gords-leaf.jpg)]
+<img>https://cdn.britannica.com/06/187306-050-0287B644/cornucopia-pumpkins-gords-leaf.jpg</img>
 
 
 <h3>Meats</h3> 
